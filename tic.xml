@@ -11,9 +11,10 @@
 		<copyright>1º ASIR - LMSGI</copyright>
 		<image>
 			<url>https://estherostos.github.io/proyectofhw/images/basesdedatos.jpg</url>
-			<height>31</height>
 			<title>Viajes y más</title>
 			<link>https://estherostos.github.io/proyectofhw</link>
+			<width>30</width>
+			<height>30</height>
 		</image>
 		<language>es-es</language>
 		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
