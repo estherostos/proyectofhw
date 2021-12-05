@@ -11,19 +11,19 @@
 		<copyright>1º ASIR - LMSGI</copyright>
 		<image>
 			<url>https://github.com/estherostos/proyectofhw/tree/main/images/basesdedatos.jpg</url>
-			<title>Esto no parecen vajes</title>
+			<title>Viajes y más</title>
 			<link>https://estherostos.github.io/proyectofhw</link>
 		</image>
 		<language>es-es</language>
 		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
-		<webMaster>i42osose@gmail.com</webMaster>
+		<webMaster>ososes_iesma20@medinaazahara.es(Esther Ostos)</webMaster>
 		
 		<!-- Noticias del canal -->
 		<item>
 			<title>Londres</title>
 			<description>En este artículo encontrará información sobre Londres</description>
 			<link>https://estherostos.github.io/proyectofhw/#londres</link>
-			<author>Esther Ostos</author>
+			<author>ososes_iesma20@iesmedinaazahara.es(Esther Ostos)</author>
 			<category>hardware</category>
 			<enclosure url="https://drive.google.com/file/d/1WsgyeJBj7HTdbzoOXsSmnVrybX_p5EhP/view?usp=sharing"
 				type="video/webm" length="32572719"/>
