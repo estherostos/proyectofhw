@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<!--Prólogo-->
+		<title>Viajes y más</title>
+		<link>https://estherostos.github.io/proyectofhw</link>
+		<description>
+			Canal de noticias sobre viajes cutres
+		</description>
+		<category>viajes/ciudades/ocio</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<image>
+			<url>https://github.com/estherostos/proyectofhw/tree/main/images/basesdedatos.jpg</url>
+			<title>Viajes y más</title>
+			<link>https://estherostos.github.io/proyectofhw</link>
+		</image>
+		<language>es-es</language>
+		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+		<webMaster>i42osose@gmail.com</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>Londres</title>
+			<description>En este artículo encontrará información sobre Londres</description>
+			<link>https://estherostos.github.io/proyectofhw/#londres</link>
+			<author>ososes_iesma20@iesmedinaazahara.es</author>
+			<category>hardware</category>
+			<enclosure url="https://drive.google.com/file/d/1WsgyeJBj7HTdbzoOXsSmnVrybX_p5EhP/view?usp=sharing"
+				type="video/webm" length="32572719"/>
+			<pubDate>Wed, 20 Jan 2021 12:25:00 +0100</pubDate>
+		</item>
+		
+		<item>
+			<title>Raspberry Pi 4</title>
+			<description>Nueva versión de la conocida miniplaca Raspberry con capacidades
+			de compute ampliadas.
+			</description>
+			<link>https://www.pccomponentes.com/caracteristicas-raspberry-pi-4</link>
+			<author>info@pccomponentes.com</author>
+			<category>hardware raspberry miniplacas</category>
+			<enclosure
+			    url="https://drive.google.com/file/d/1Vf_AP5GGDQJKHCOSfhMfaA9Qqx8yYogN/view?usp=sharing"
+			    type="video/webm" length="16347298"/>
+			<pubDate>Wed, 27 Jan 2021 12:15:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
