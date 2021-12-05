@@ -22,11 +22,11 @@
 		<item>
 			<title>Londres</title>
 			<description>En este artículo encontrará información sobre Londres</description>
-			<link>https://estherostos.github.io/proyectofhw/#londres</link>
+			<link>https://estherostos.github.io/proyectofhw/londres.html</link>
 			<author>ososes_iesma20@iesmedinaazahara.es</author>
 			<category>hardware</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
-				type="video/webm" length="32572719"/>
+				type="video" length="32572719"/>
 			<pubDate>Wed, 20 Jan 2021 12:25:00 +0100</pubDate>
 		</item>
 	</channel>
