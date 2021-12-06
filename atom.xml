@@ -39,7 +39,7 @@
 		<summary> En este artículo cutre encontraras casi ninguna información sobre Londres</summary>
 		<link rel="enclosure" 
 			type="image/png" 
-		      href="pages/londres.html" />
+		      href="pages/londres.html"></link>
 	</entry>
 
 </feed>
