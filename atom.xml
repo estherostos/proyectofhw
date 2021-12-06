@@ -29,7 +29,7 @@
 
 
 	<entry>
-		<id>pages/londres.html</id>
+		<id>https://estherostos.github.io/proyectofhw/pages/londres.html</id>
 		<title>Información sobre Londres</title>
 		<update>2021-02-12T18:30:00+01:00</update>
 		<author>
@@ -37,9 +37,6 @@
 			<email>ososes_iesma20@iesmedinaazahara.es</email>
 		</author>	
 		<summary> En este artículo cutre encontraras casi ninguna información sobre Londres</summary>
-		<link rel="enclosure" 
-			type="image/png" 
-		      href="pages/londres.html"></link>
 	</entry>
 
 </feed>
