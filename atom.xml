@@ -23,8 +23,6 @@
 		<email>otro@gmail.com</email>
 		<uri>https://www.linkedin.com/in/otro</uri>
 	</contributor>
-
-	<icon>viajes.png</icon>
 	<logo>viajes.jpg</logo>
 
 
@@ -35,7 +33,7 @@
 		<author>
 			<name>Esther Ostos Ostos</name>
 			<email>ososes_iesma20@iesmedinaazahara.es</email>
-		</author>	
+		</author>
 		<summary> En este artículo cutre encontraras casi ninguna información sobre Londres</summary>
 		<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"></link>
 	</entry>
