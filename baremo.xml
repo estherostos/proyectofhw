@@ -1,9 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <baremo>
 <femenino>
 <bach1>
 <m50 marca="7">10</m50>
+<m50 marca="8">9</m50>
+<m50 marca="8.2">8</m50>
+<m50 marca="8.4">7</m50>
+<m50 marca="8.8">6</m50>
+<m50 marca="9">5</m50>
+<m50 marca="9.2">4</m50>
+<m50 marca="9.6">3</m50>
+<m50 marca="9.9">2</m50>
+<m50 marca="10.2">1</m50>
+<lb marca="3.25">1</lb>
+<lb marca="3.6">2</lb>
+<lb marca="4">3</lb>
+<lb marca="4.4">4</lb>
+<lb marca="4.8">5</lb>
+<lb marca="5.15">6</lb>
+<lb marca="5.5">7</lb>
+<lb marca="5.8">8</lb>
+<lb marca="6.15">9</lb>
+<lb marca="6.5">10</lb>
 </bach1>
 </femenino>
-
+<masculino>
+</masculino>
 </baremo>
