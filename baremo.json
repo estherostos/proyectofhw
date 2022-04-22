@@ -4,86 +4,85 @@
          "bach1": {
             "m50": [
                {
-                  "_marca": "7",
-                  "__text": "10"
+                  "marca": "7",
+                  "text": "10"
                },
                {
-                  "_marca": "8",
-                  "__text": "9"
+                  "marca": "8",
+                  "text": "9"
                },
                {
-                  "_marca": "8.2",
-                  "__text": "8"
+                  "marca": "8.2",
+                  "text": "8"
                },
                {
-                  "_marca": "8.4",
-                  "__text": "7"
+                  "marca": "8.4",
+                  "text": "7"
                },
                {
-                  "_marca": "8.8",
-                  "__text": "6"
+                  "marca": "8.8",
+                  "text": "6"
                },
                {
-                  "_marca": "9",
-                  "__text": "5"
+                  "marca": "9",
+                  "text": "5"
                },
                {
-                  "_marca": "9.2",
-                  "__text": "4"
+                  "marca": "9.2",
+                  "text": "4"
                },
                {
-                  "_marca": "9.6",
-                  "__text": "3"
+                  "marca": "9.6",
+                  "text": "3"
                },
                {
-                  "_marca": "9.9",
-                  "__text": "2"
+                  "marca": "9.9",
+                  "text": "2"
                },
                {
-                  "_marca": "10.2",
-                  "__text": "1"
+                  "marca": "10.2",
+                  "text": "1"
                }
             ],
             "lb": [
                {
-                  "_marca": "3.25",
-                  "__text": "1"
+                  "marca": "3.25",
+                  "text": "1"
                },
                {
-                  "_marca": "3.6",
-                  "__text": "2"
+                  "marca": "3.6",
+                  "text": "2"
                },
                {
-                  "_marca": "4",
-                  "__text": "3"
+                  "marca": "4",
+                  "text": "3"
                },
                {
-                  "_marca": "4.4",
-                  "__text": "4"
+                  "marca": "4.4",
+                  "text": "4"
                },
                {
-                  "_marca": "4.8",
-                  "__text": "5"
+                  "marca": "4.8",
+                  "text": "5"
                },
                {
-                  "_marca": "5.15",
-                  "__text": "6"
+                  "marca": "5.15",
+                  "text": "6"
                },
                {
-                  "_marca": "5.5",
-                  "__text": "7"
+                  "marca": "5.5",
+                  "text": "7"
+               },               {
+                  "marca": "5.8",
+                  "text": "8"
                },
                {
-                  "_marca": "5.8",
-                  "__text": "8"
+                  "marca": "6.15",
+                  "text": "9"
                },
                {
-                  "_marca": "6.15",
-                  "__text": "9"
-               },
-               {
-                  "_marca": "6.5",
-                  "__text": "10"
+                  "marca": "6.5",
+                  "text": "10"
                }
             ]
          }
