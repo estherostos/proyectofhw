@@ -21,6 +21,7 @@
             }
       }      
    },
+   
    {
       "usuario":"jugador2",
       "nombre": "Rayito",
@@ -52,6 +53,27 @@
             "LMSGI": 
             {
                "puntos":"3",
+               "retosganados": ["01-10-2022"]
+
+            },
+            "GBD": 
+            {
+               "puntos":"2",
+               "retosganados": ["01-10-2022","02-10-2022"]
+
+            }
+      }      
+   },
+   {
+      "usuario":"jugador4",
+      "nombre": "Peor",
+      "apellido1": "que el mediocre",
+      "totalpuntos":"2",
+      "retos":
+      {
+            "LMSGI": 
+            {
+               "puntos":"1",
                "retosganados": ["01-10-2022"]
 
             },
