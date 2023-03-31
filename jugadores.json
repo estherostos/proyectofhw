@@ -1,9 +1,10 @@
 {
-   "jugadores:":[
+   "jugadores":[
    {
       "usuario":"jugador1",
-      "nombre": "Pepito",
-      "apellido1": "Pérez",
+      "nombre": "El mediocre",
+      "apellido1": "Que lo intenta",
+      "totalpuntos":"3",
       "retos":
       {
             "LMSGI": 
@@ -22,8 +23,30 @@
    },
    {
       "usuario":"jugador2",
-      "nombre": "Mariquilla",
-      "apellido1": "Pérez",
+      "nombre": "Rayillo",
+      "apellido1": "Veloz",
+      "totalpuntos":"5",
+      "retos":
+      {
+            "LMSGI": 
+            {
+               "puntos":"3",
+               "retosganados": ["01-10-2022"]
+
+            },
+            "GBD": 
+            {
+               "puntos":"2",
+               "retosganados": ["01-10-2022","02-10-2022"]
+
+            }
+      }      
+   },
+   {
+      "usuario":"jugador3",
+      "nombre": "El manta",
+      "apellido1": "Mojada",
+      "totalpuntos":"5",
       "retos":
       {
             "LMSGI": 
